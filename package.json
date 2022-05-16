@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Qex90/goit-js-hw-08/issues"
   },
-  "homepage": "https://github.com/Qex90/goit-js-hw-08/",
+  "homepage": "https://qex90.github.io/goit-js-hw-08/",
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
